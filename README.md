@@ -29,6 +29,7 @@ This project models transactions as a **directed graph** (accounts = nodes, mone
 ---
 
 ## 🧠 Solution Approach
+👉 [Watch Demo Video](https://drive.google.com/file/d/1gz2ekK0BxcXS8IEu0HHoeVDGruYi4gBm/view?usp=sharing)
 
 We model the transaction network as a graph and extract **per-node structural features** that capture behavioral anomalies:
 
